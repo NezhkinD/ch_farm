@@ -6,4 +6,4 @@ chown -R "$SUDO_USER":rootgroup ./plots
 chmod 775 ./plots
 
 #Start miner
-./hpool-miner-chia
+nohup ./hpool-miner-chia &
