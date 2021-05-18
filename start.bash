@@ -9,4 +9,4 @@ chmod 775 ./plots
 killall 'hpool-miner-chia'
 
 #Start miner
-nohup ./1.3.0-5/hpool-miner-chia &
+sh ./1.3.0-5/run.bash
