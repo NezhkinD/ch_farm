@@ -1,6 +1,6 @@
 path:
     - ./../plots/
-minerName: UBUNTU_1
+minerName: UBUNTU_NEW
 apiKey: 728979a0-2f94-4daf-8da2-674dd533d833
 cachePath: ""
 deviceId: ""
@@ -12,6 +12,6 @@ log:
 url:
   info: ""
   submit: ""
-scanPath: false
+scanPath: true
 scanMinute: 60
 
