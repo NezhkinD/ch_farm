@@ -1,0 +1,17 @@
+path:
+  - ./../plots/
+minerName: UBUNTU_413-465
+apiKey: 728979a0-2f94-4daf-8da2-674dd533d833
+cachePath: ""
+deviceId: ""
+extraParams: {}
+log:
+  lv: info
+  path: ./log/
+  name: miner.log
+url:
+  info: ""
+  submit: ""
+scanPath: true
+scanMinute: 60
+
